@@ -155,13 +155,13 @@ python test_simulation.py
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
 * Ashwell Cherian Giji
 * 
 
 ---
 
-## 📜 License
+## License
 
 This project is for **educational purposes**.
