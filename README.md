@@ -158,7 +158,8 @@ python test_simulation.py
 ## Contributors
 
 * Ashwell Cherian Giji
-* 
+* Ashish Arman Toppo
+* Thanda Sai Moukthika
 
 ---
 
