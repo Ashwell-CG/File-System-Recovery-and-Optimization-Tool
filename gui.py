@@ -1,9 +1,5 @@
 """
-gui.py - Tkinter GUI for the File System Recovery & Optimization Tool
-=====================================================================
-Provides a modern desktop interface on top of the existing CLI backend.
-This module does not reimplement file-system logic; it delegates every
-operation to the existing FileSystem and VirtualDisk classes.
+gui.py - GUI for the SRT 
 """
 
 from __future__ import annotations
