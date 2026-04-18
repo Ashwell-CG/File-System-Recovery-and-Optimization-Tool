@@ -1,5 +1,5 @@
 """
-cli.py – Interactive Command-Line Interface
+cli.py – Interactive CLI
 =============================================
 REPL-style shell for interacting with the File System Simulator.
 
