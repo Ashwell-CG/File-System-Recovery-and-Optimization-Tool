@@ -56,8 +56,8 @@ ACCESS_MAP = {
 
 BANNER = r"""
 ╔══════════════════════════════════════════════════════════════╗
-║       File System Recovery & Optimization Simulator         ║
-║                     Interactive CLI                         ║
+║       File System Recovery & Optimization Simulator          ║
+║                     Interactive CLI                          ║
 ╚══════════════════════════════════════════════════════════════╝
 Type 'help' for a list of commands.
 """
@@ -122,7 +122,7 @@ def print_metrics(m: dict):
     print("╚═════════════════════════════════════════════════╝\n")
 
 
-# ── Main REPL ────────────────────────────────────────────────────────────────
+# ── Main ────────────────────────────────────────────────────────────────
 
 def main():
     print(BANNER)
