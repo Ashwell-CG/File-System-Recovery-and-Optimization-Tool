@@ -1,7 +1,7 @@
 """
 test_simulation.py – Automated Crash & Recovery Demonstration
 ===============================================================
-Runs a scripted sequence that exercises every major subsystem:
+Runs a scripted sequence that exercises major subsystem:
 
   1. Format a fresh file system
   2. Create directories and files (all three access methods)
