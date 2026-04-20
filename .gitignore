@@ -1,21 +1,11 @@
-__pycache__/
+# C build artifacts
+*.exe
+*.o
 
-# Python generated files
-virtual_disk.bin
-fs_journal.log
-fs_checkpoint.json
+# Generated runtime files (virtual disk, journal, checkpoint)
+*.bin
 backups/
 
-# C build artifacts (compiled binaries)
-c_fs/*.exe
-c_fs/*.o
-
-# C generated runtime files
-c_fs/*.bin
-c_fs/backups/
-
-# Generated HTML/PDF documents
+# Generated HTML and PDF documents
 *.html
 *.pdf
-c_fs/*.html
-c_fs/*.pdf
