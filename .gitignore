@@ -1,5 +1,21 @@
 __pycache__/
+
+# Python generated files
 virtual_disk.bin
 fs_journal.log
 fs_checkpoint.json
 backups/
+
+# C build artifacts (compiled binaries)
+c_fs/*.exe
+c_fs/*.o
+
+# C generated runtime files
+c_fs/*.bin
+c_fs/backups/
+
+# Generated HTML/PDF documents
+*.html
+*.pdf
+c_fs/*.html
+c_fs/*.pdf

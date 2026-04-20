@@ -7,8 +7,8 @@ import re
 import os
 import markdown
 
-INPUT_MD = r"C:\Users\ashwe\.gemini\antigravity\brain\7ce4ac8e-fbed-44be-bb2e-a28ec3c95afe\complete_project_explanation.md"
-OUTPUT_HTML = r"c:\Ashwell\Project\OS Project\Complete_Project_Explanation.html"
+INPUT_MD = r"c:\Ashwell\Project\OS Project\c_fs\C_Complete_Explanation.md"
+OUTPUT_HTML = r"c:\Ashwell\Project\OS Project\c_fs\C_Complete_Explanation.html"
 
 # Read markdown
 with open(INPUT_MD, "r", encoding="utf-8") as f:
