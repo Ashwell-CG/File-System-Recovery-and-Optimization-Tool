@@ -1,4 +1,4 @@
-# Complete Project Explanation: File System Simulator (C Version)
+# Complete Project Explanation: File System Simulator
 
 > This document explains **everything** about the C version of this project as if you know nothing about it. Read this top to bottom and you'll understand every file, every folder, and exactly what happens when you run it.
 
