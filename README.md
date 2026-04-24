@@ -1,6 +1,6 @@
 # File System Recovery & Optimization Simulator
 
-> A **C-language operating system project** that simulates a real-world file system with crash recovery, journaling, defragmentation, and disk optimization — written from scratch at the systems level.
+>A C-based operating system project that simulates a real-world file system with crash recovery, journaling, defragmentation, and disk optimization, built from scratch at the systems level.
 
 ---
 
