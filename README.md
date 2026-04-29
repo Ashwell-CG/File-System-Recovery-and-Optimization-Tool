@@ -110,19 +110,26 @@ gcc -O2 -std=c11 disk.c bitmap.c inode.c directory.c recovery.c fs.c test.c -o f
 > $env:PATH = "C:\msys64\mingw64\bin;" + $env:PATH
 > ```
 
-### Step 3: Run the Interactive Simulator
+### Step 3: Run the Interactive Simulator (CLI)
 
 ```bash
 ./fs_sim.exe        # Linux/macOS
 .\fs_sim.exe        # Windows PowerShell
 ```
 
-### Step 4: Run the Automated 13-Stage Test
+### Step 4: Run the Graphical User Interface (GUI)
+
+The GUI provides a visual representation of the disk blocks, file tree, and real-time metrics. It requires Python and Tkinter.
+
+```bash
+python gui.py
+```
+
+### Step 5: Run the Automated 13-Stage Test
 
 ```bash
 ./fs_test.exe
 ```
-
 ---
 
 ## CLI Commands
